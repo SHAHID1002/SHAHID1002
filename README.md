@@ -11,7 +11,7 @@
 
 ---
 
-## 🎓 About Me  
+## 🙋‍♂️ About Me  
 
 - 🎓 **Bachelor of Engineering (B.E.) in Electronics and Communication Engineering**  
 - 💼 **Frontend Developer @ Relaxplzz Technologies, Technopark Trivandrum (Jan 2025 – May 2025)**  
